@@ -1,0 +1,6 @@
+This section intriduced the go module
+=> The Go Module is initiated by:
+	go init namespace 
+   e.g. (in the current directory you want to make a module)
+     >> go init example.com/username/hello
+--
